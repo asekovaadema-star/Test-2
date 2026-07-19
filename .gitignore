@@ -9,3 +9,5 @@ venv/
 *.pyc 
 db/my_data.db
 db/Untitled-1.sqlite3-query
+.venv/
+venv/
