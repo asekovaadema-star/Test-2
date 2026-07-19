@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.idea/
+.vscode/
+.DS_Store
+*.pyc 
+db/my_data.db
+db/Untitled-1.sqlite3-query
